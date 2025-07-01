@@ -77,3 +77,8 @@ The raw data was transformed and visualized using Power BI, and insights were ex
 
 ### 5. Store Analysis
 ![Store Analysis](./Store%20Analysis.png)
+
+
+## 👤 Author
+Chinmay Deshmukh  
+*Data Science Student | Power BI Enthusiast*
