@@ -107,6 +107,6 @@ The project consists of five main dashboards:
 - [Data Source](./MavenMarket.zip)  
 - [Live Dashboard Link](MavenMarketDashboard.pbix)
 
-For visual previews, refer to the screenshots in the main repository or view the README file(README.md)
+For visual previews, refer to the screenshots in the main repository or view the README file(./README.md)
 
 
