@@ -1,6 +1,6 @@
 # 📊 Retail Analytics Insight Report
 **Project Title**: Retail Analytics Dashboard – Maven Markets  
-**Author**: [Chinmay Deshmukh]  
+**Author**: Chinmay Deshmukh
 **Tool Used**: Microsoft Power BI  
 **Date**: June 2025  
 
@@ -105,7 +105,7 @@ The project consists of five main dashboards:
 
 - **Dashboards Built In**: Microsoft Power BI  
 - [Data Source](./MavenMarket.zip)  
-- **Live Dashboard Link**: [Insert Power BI Link Here]
+- **Live Dashboard Link**: (MavenMarketDashbord.pbix)
 
 For visual previews, refer to the screenshots in the main repository or view the README file[README.me].
 
