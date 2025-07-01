@@ -22,7 +22,7 @@ The raw data was transformed and visualized using Power BI, and insights were ex
 
 ## 🔗 Power BI Dashboard Link
 
-[Dashboard](MavenMarketDashboard.pbix)(#)  
+[Dashboard](MavenMarketDashboard.pbix)
 
 
 ## ⚙️ Process
