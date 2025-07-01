@@ -6,12 +6,8 @@ To gain actionable insights into customer behavior, product performance, sales t
 
 ## 📦 Dataset
 
-The dataset used in this project includes detailed retail data across:
-- Customer demographics and retention metrics
-- Product sales and profit
-- Monthly and regional sales performance
-- Product returns over time
-- Store-level profit and sales by location
+[Access the dataset here](./MavenMarket.zip)  
+
 
 The raw data was transformed and visualized using Power BI, and insights were extracted from the following dashboards.
 
