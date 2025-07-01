@@ -104,7 +104,7 @@ The project consists of five main dashboards:
 ## 📎 Appendix
 
 - **Dashboards Built In**: Microsoft Power BI  
-- [**Data Source**]: (./MavenMarket.zip)  
+- [Data Source](./MavenMarket.zip)  
 - **Live Dashboard Link**: [Insert Power BI Link Here]
 
 For visual previews, refer to the screenshots in the main repository or view the README file[README.me].
