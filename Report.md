@@ -1,6 +1,6 @@
 # 📊 Retail Analytics Insight Report
 **Project Title**: Retail Analytics Dashboard – Maven Markets  
-**Author**: Chinmay Deshmukh
+**Author**: Chinmay Deshmukh  
 **Tool Used**: Microsoft Power BI  
 **Date**: June 2025  
 
