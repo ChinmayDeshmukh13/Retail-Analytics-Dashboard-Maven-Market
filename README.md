@@ -27,9 +27,19 @@ The raw data was transformed and visualized using Power BI, and insights were ex
 
 ## ⚙️ Process
 
-### 1. **Data Collection**
-- Collected raw retail data from various business systems including POS (Point of Sale), CRM (Customer Relationship Management), and inventory databases.
-- Data sources included: Customer data, Product catalogs, Sales transactions, Return records, and Store information.
+## 📦 Data Collection
+
+This project uses the **Maven Market** dataset, which was sourced directly from the [GitHub repository]
+
+The dataset includes structured retail business data across multiple dimensions:
+
+- 🧾 Sales transactions  
+- 🛍️ Product catalog  
+- 👥 Customer records  
+- 🔁 Return logs  
+- 🏬 Store information
+
+No manual data extraction from systems like POS, CRM, or inventory platforms was performed.
 
 ### 2. **Data Cleaning and Preparation**
 - Removed duplicates, handled null/missing values, and ensured data consistency across tables.
