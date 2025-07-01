@@ -64,19 +64,19 @@ The raw data was transformed and visualized using Power BI, and insights were ex
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Customer Insights
-![Customer Insights](./Customer%20Insights.png)
+![Customer Insights](images/Customer%20Insights.png)
 
 ### 2. Product Analysis
-![Product Analysis](./Product%20Analysis.png)
+![Product Analysis](images/Product%20Analysis.png)
 
 ### 3. Return Analysis
-![Return Analysis](./Return%20Analysis.png)
+![Return Analysis](images/Return%20Analysis.png)
 
 ### 4. Sales Analysis
-![Sales Analysis](./Sales%20Analysis.png)
+![Sales Analysis](images/Sales%20Analysis.png)
 
 ### 5. Store Analysis
-![Store Analysis](./Store%20Analysis.png)
+![Store Analysis](images/Store%20Analysis.png)
 
 
 ## 👤 Author
