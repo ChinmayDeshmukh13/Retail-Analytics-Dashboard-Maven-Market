@@ -27,7 +27,7 @@ The raw data was transformed and visualized using Power BI, and insights were ex
 
 ## ⚙️ Process
 
-## 2. Data Collection
+## 1. Data Collection
 
 This project uses the **Maven Market** dataset, which was sourced directly from the [GitHub repository]
 
